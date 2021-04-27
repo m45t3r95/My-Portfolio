@@ -1,0 +1,11 @@
+.layer-3{
+    clip-path: polygon(0 100%, 0 0, 100% 100%);
+}
+.layer-2{
+    clip-path: polygon(100% 100%, 0 100%, 100% 0);
+}
+
+.me-img{
+    background: url(./pic2.png) no-repeat scroll right;
+    background-size: auto 100%;
+}
